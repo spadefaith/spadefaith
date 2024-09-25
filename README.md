@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [Cake.js](https://github.com/spadefaith/cake.js.git)
 
-- 🌱 I’m currently learning **Dart web development**
-
-- 🤝 I’m looking for help with [Cake.js](https://github.com/spadefaith/cake.js.git)
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **web development**
 
