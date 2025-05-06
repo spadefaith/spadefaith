@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cedrick1227@gmail.com**
 
-- 📄 Know about my experiences [http://profile.cedrickcampoto.repl.co/](http://profile.cedrickcampoto.repl.co/)
+- 📄 [Know about my experiences](https://www.linkedin.com/in/cedrick1227/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
