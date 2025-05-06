@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cake.js](https://github.com/spadefaith/cake.js.git)
+- 🔭 I’m currently working on [Kwik.js](https://github.com/spadefaith/kwik)
 
 - 🌱 I’m currently learning **Rust**
 
